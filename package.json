@@ -21,7 +21,7 @@
   "author": "Botpress, Inc.",
   "license": "Botpress Proprietary License",
   "scripts": {
-    "start": "npm botfile.js &"
+    "start": "npm botfile.js"
   },
   "main": "botfile.js"
 }
