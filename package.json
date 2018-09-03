@@ -19,5 +19,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Botpress, Inc.",
-  "license": "Botpress Proprietary License"
+  "license": "Botpress Proprietary License",
+  "scripts": {
+    "start": "npm botfile.js &"
+  },
+  "main": "botfile.js"
 }
